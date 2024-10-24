@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    max-width: 1920px;
+}
+
+#body {
+    display: inline-block;
+    background: linear-gradient(180deg, #341F78 1%, #41002F 100%);
+    color: white;
+}
+
+#main { 
+}
+
+h1 {
+	width: 994px;
+	height: 200px;
+	color: #F2B8FF;
+	font-size: 120px;
+    margin: 5% auto 5% auto; 
+}
+
+#header {
+    background-color: #14002D;
+    width: 1920px;
+    height: 155px;
+    padding: 8px 8px 8px 8px;
+    background: #14002D;
+    border-color: #FFFFFF00;
+    border-width: 1px;
+    border-style: solid;
+    max-width: 100%;
+    display: flex;
+}
+
